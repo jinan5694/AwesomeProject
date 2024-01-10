@@ -83,3 +83,7 @@ To learn more about React Native, take a look at the following resources:
 https://reactnative.cn/docs/signed-apk-android
 
 `android/app/build/outputs/apk/release/app-release.apk`
+
+./gradlew bundleRelease
+
+aab bao
